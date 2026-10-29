@@ -1,0 +1,20 @@
+{
+  "name": "UnitTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.1",
+    "ts-jest": "^27.1.4"
+  }
+}
