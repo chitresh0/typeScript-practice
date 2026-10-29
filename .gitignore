@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# TypeScript / Build Outputs
+# (Matches common outDir paths like dist, build, or out)
+dist/
+build/
+out/
+lib/
+tsconfig.tsbuildinfo
+
+
+# Generated JS & Maps
+# (Optional: Uncomment if your source and compiled files live in the same folder)
+# *.js
+# *.js.map
+# *.d.ts.map
+
+# Logs
+logs
+*.log
+
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
